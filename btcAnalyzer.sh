@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Author: Marcelo Vázquez (aka S4vitar)
 
 #Colours
 greenColour="\e[0;32m\033[1m"
