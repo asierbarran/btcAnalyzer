@@ -1,5 +1,7 @@
-				# <-- //LeerPrimero// -->
+# <-- //LeerPrimero// -->
 # btcAnalyzer
+	apt-get update
+	apt-get upgrade
 
 **btcAnalyzer** es una herramienta hecha en Bash ideal para inspeccionar transacciones en el servicio de exploración de bloques de Bitcoin, conocido como Blockchain (blockchain.com).
 
