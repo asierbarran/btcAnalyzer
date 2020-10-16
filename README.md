@@ -1,5 +1,5 @@
 # btcAnalyzer
-
+############################################################## LeerPrimero ############################################################################################
 **btcAnalyzer** es una herramienta hecha en Bash ideal para inspeccionar transacciones en el servicio de exploración de bloques de Bitcoin, conocido como Blockchain (blockchain.com).
 
 ¿Quieres saber cuánto dinero se mueve por el mundo?, te sorprenderán algunas transacciones.
