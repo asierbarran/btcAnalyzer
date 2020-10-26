@@ -1,9 +1,6 @@
 #!/bin/bash
 # read.md
-#
-#
-#
-#
+
 
 
 #Colours
