@@ -1,5 +1,4 @@
-# btcAnalyzer
-
+# btcAnalyze
 	apt-get update
 	apt-get upgrade
 
